@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Farhaan Weather</string>
+    <string name="forecast_data">Weather Forecast</string>
+</resources>
